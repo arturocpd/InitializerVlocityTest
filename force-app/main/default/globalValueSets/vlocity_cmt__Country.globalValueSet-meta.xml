@@ -391,6 +391,12 @@
         <label>Western Sahara</label>
     </customValue>
     <customValue>
+        <fullName>FI</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Finland</label>
+    </customValue>
+    <customValue>
         <fullName>ER</fullName>
         <default>false</default>
         <isActive>false</isActive>
@@ -407,12 +413,6 @@
         <default>false</default>
         <isActive>false</isActive>
         <label>Ethiopia</label>
-    </customValue>
-    <customValue>
-        <fullName>FI</fullName>
-        <default>false</default>
-        <isActive>false</isActive>
-        <label>Finland</label>
     </customValue>
     <customValue>
         <fullName>FJ</fullName>
@@ -667,6 +667,12 @@
         <label>Kenya</label>
     </customValue>
     <customValue>
+        <fullName>KM</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Comoros</label>
+    </customValue>
+    <customValue>
         <fullName>KG</fullName>
         <default>false</default>
         <isActive>false</isActive>
@@ -683,12 +689,6 @@
         <default>false</default>
         <isActive>false</isActive>
         <label>Kiribati</label>
-    </customValue>
-    <customValue>
-        <fullName>KM</fullName>
-        <default>false</default>
-        <isActive>false</isActive>
-        <label>Comoros</label>
     </customValue>
     <customValue>
         <fullName>KN</fullName>
@@ -937,6 +937,12 @@
         <label>Niger</label>
     </customValue>
     <customValue>
+        <fullName>NL</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Netherlands</label>
+    </customValue>
+    <customValue>
         <fullName>NF</fullName>
         <default>false</default>
         <isActive>false</isActive>
@@ -953,12 +959,6 @@
         <default>false</default>
         <isActive>false</isActive>
         <label>Nicaragua</label>
-    </customValue>
-    <customValue>
-        <fullName>NL</fullName>
-        <default>false</default>
-        <isActive>false</isActive>
-        <label>Netherlands</label>
     </customValue>
     <customValue>
         <fullName>NO</fullName>
